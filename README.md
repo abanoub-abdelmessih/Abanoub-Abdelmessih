@@ -4,11 +4,11 @@ I'm a passionate Front-End Developer specializing in React.js, with a strong foc
 
 __What I Do:__
 
-__Collaborate__ on innovative projects that leverage React and Tailwind CSS to create efficient, dynamic web experiences.
+- **Collaborate** on innovative projects that leverage React and Tailwind CSS to create efficient, dynamic web experiences.
 
-__Enhance user__ interfaces by implementing best practices in UX/UI design and exploring advanced concepts in modern web development.
+- **Enhance user** interfaces by implementing best practices in UX/UI design and exploring advanced concepts in modern web development.
 
-__Expand__ my skills in performance optimization and mastering complex state management in React.
+- **Expand** my skills in performance optimization and mastering complex state management in React.
 
 ### I'm Currently Learning:
 - **Advanced concepts in React and Tailwind CSS** to stay ahead in the ever-evolving landscape of web development.
