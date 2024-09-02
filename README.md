@@ -1,5 +1,15 @@
 # 💫 About Me:
-I’m currently working on: Developing an advanced E-commerce application, focusing on implementing responsive design and optimizing user experience with modern React techniques.<br><br>I’m looking to collaborate on: Innovative front-end projects that leverage React and Tailwind CSS to create scalable and efficient web applications.<br><br>I’m looking for help with: Expanding my expertise in performance optimization and mastering complex state management in React.<br><br>I’m currently learning: Best practices in UI/UX design and exploring advanced concepts in React and Tailwind CSS to enhance the functionality and aesthetics of web applications.<br><br>Ask me about: Front-end development, creating modular and maintainable codebases, and building dynamic interfaces with React.<br><br>Fun fact: I have a passion for solving complex challenges and continuously exploring emerging technologies in the web development landscape.
+I'm a passionate Front-End Developer specializing in React.js, with a strong focus on creating scalable, user-friendly web applications. My expertise lies in building responsive designs and optimizing performance using modern JavaScript frameworks and libraries.
+
+What I Do:
+Collaborate on innovative projects that leverage React and Tailwind CSS to create efficient, dynamic web experiences.
+Enhance user interfaces by implementing best practices in UX/UI design and exploring advanced concepts in modern web development.
+Expand my skills in performance optimization and mastering complex state management in React.
+I'm Currently Learning:
+Advanced concepts in React and Tailwind CSS to stay ahead in the ever-evolving landscape of web development.
+Node.js to enhance my backend capabilities and build full-stack applications.
+Fun Fact:
+I have a passion for solving complex challenges and continuously exploring emerging technologies in the web development space.
 
 
 ## 🌐 Socials:
