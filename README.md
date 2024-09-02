@@ -10,11 +10,11 @@ __Enhance user__ interfaces by implementing best practices in UX/UI design and e
 
 __Expand__ my skills in performance optimization and mastering complex state management in React.
 
-__I'm Currently Learning:__
+### I'm Currently Learning:
+- **Advanced concepts in React and Tailwind CSS** to stay ahead in the ever-evolving landscape of web development.
 
-Advanced concepts in React and Tailwind CSS to stay ahead in the ever-evolving landscape of web development.
+- **Node.js** to enhance my backend capabilities and build full-stack applications.
 
-__Node.js__ to enhance my backend capabilities and build full-stack applications.
 
 __Fun Fact:__
 
