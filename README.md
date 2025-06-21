@@ -10,15 +10,6 @@ __What I Do:__
 
 - **Expand** my skills in performance optimization and mastering complex state management in React.
 
-### I'm Currently Learning:
-- **Advanced concepts in React and Tailwind CSS** to stay ahead in the ever-evolving landscape of web development.
-
-- **Node.js** to enhance my backend capabilities and build full-stack applications.
-
-
-__Fun Fact:__
-
-I have a passion for solving complex challenges and continuously exploring emerging technologies in the web development space.
 
 
 ## 🌐 Socials:
