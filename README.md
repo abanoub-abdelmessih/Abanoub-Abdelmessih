@@ -4,10 +4,10 @@
 ---
 
 🌍  Feel free to connect or reach out through any of the platforms below:
-- 👉  My LinkedIn at [**Abanoub Abdelmessih**](https://www.linkedin.com/in/abanoub-abdelmessih/)
-- 🖥️  See my portfolio at [**My Portfolio**](https://abanoub-portfolio.vercel.app)
-- 📫  Reach me via email: [**abanoubabdelmessih110@gmail.com**](mailto:abanoubabdelmessih110@gmail.com)
-- 📱  Message me on WhatsApp: [**+20 1559566765**](https://wa.me/201559566765)
+- 👉  My LinkedIn at : [**Abanoub Abdelmessih**](https://www.linkedin.com/in/abanoub-abdelmessih/)
+- 🖥️  See my portfolio at : [**My Portfolio**](https://abanoub-portfolio.vercel.app)
+- 📫  Reach me via email : [**abanoubabdelmessih110@gmail.com**](mailto:abanoubabdelmessih110@gmail.com)
+- 📱  Message me on WhatsApp : [**+20 1559566765**](https://wa.me/201559566765)
 
 ---
 
@@ -19,9 +19,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)  
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white)  
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=react-hook-form&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-111827?logo=vercel&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?logo=framer&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3C1E1E?logo=zod&logoColor=white)  
+![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-
