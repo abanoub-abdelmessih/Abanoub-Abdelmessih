@@ -1,13 +1,13 @@
-# 👋 Hi there! I'm Abanoub Abd Elmessih  
-### Front-End Developer | React & Next.js Enthusiast | UI Lover  
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Abanoub Abdelmessih  
+### Front-End Developer | React & Next.js Specialist | Developing High-Quality Real-World Web Applications
 
 ---
 
-- 🌍  I'm passionate about crafting modern, fast, and accessible web applications.
-- 💼  Check my portfolio: [**My Portfolio**](https://abanoub-portfolio.vercel.app)
-- 💬  Ask me about React, Next.js, TypeScript, or Tailwind CSS.
-- 📫  Reach me at: [**abanoub@example.com**](mailto:abanoub@example.com)
-- 📱  WhatsApp: [**+20XXXXXXXXX**](https://wa.me/20XXXXXXXXX)
+- 🌍  Feel free to connect or reach out through any of the platforms below:
+- 👉  My LinkedIn at [**Abanoub Abdelmessih**](https://www.linkedin.com/in/abanoub-abdelmessih/)
+- 🖥️  See my portfolio at [**My Portfolio**](https://abanoub-portfolio.vercel.app)
+- 📫  Reach me via email: [**abanoubabdelmessih110@gmail.com**](mailto:abanoubabdelmessih110@gmail.com)
+- 📱  Message me on WhatsApp: [**+2 01559566765**](https://wa.me/201559566765)
 
 ---
 
