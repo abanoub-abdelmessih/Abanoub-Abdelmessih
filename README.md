@@ -3,11 +3,11 @@
 
 ---
 
-- 🌍  Feel free to connect or reach out through any of the platforms below:
+🌍  Feel free to connect or reach out through any of the platforms below:
 - 👉  My LinkedIn at [**Abanoub Abdelmessih**](https://www.linkedin.com/in/abanoub-abdelmessih/)
 - 🖥️  See my portfolio at [**My Portfolio**](https://abanoub-portfolio.vercel.app)
 - 📫  Reach me via email: [**abanoubabdelmessih110@gmail.com**](mailto:abanoubabdelmessih110@gmail.com)
-- 📱  Message me on WhatsApp: [**+2 01559566765**](https://wa.me/201559566765)
+- 📱  Message me on WhatsApp: [**+20 1559566765**](https://wa.me/201559566765)
 
 ---
 
