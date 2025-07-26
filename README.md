@@ -1,80 +1,43 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Hi there! I'm Abanoub Abd Elmessih  
+### Front-End Developer | React & Next.js Enthusiast | UI Lover  
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abanoub-abdelmessih" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="abanoubabdelmessih110@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/abanoub_3bdo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://abanoub-dev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
-  <a href="01559566765" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+- 🌍  I'm passionate about crafting modern, fast, and accessible web applications.
+- 💼  Check my portfolio: [**My Portfolio**](https://abanoub-portfolio.vercel.app)
+- 💬  Ask me about React, Next.js, TypeScript, or Tailwind CSS.
+- 📫  Reach me at: [**abanoub@example.com**](mailto:abanoub@example.com)
+- 📱  WhatsApp: [**+20XXXXXXXXX**](https://wa.me/20XXXXXXXXX)
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🚀 Tech Stack
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?logo=framer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 📌 Currently Working On
+- 🛒 **Shoppix** – E-commerce app with advanced features like cart, orders, and multi-language support.
+- 🧾 **Orderly** – Orders management app with clean UI and practical use of state & form libraries.
+- 🌤️ **Sky Cast** – Simple weather app using API integration.
+- 🎨 **My Portfolio** – Built with Next.js, TypeScript, and Framer Motion.
 
-<p align="left">I'm Abanoub Abdelmessih from Egypt <br><br>- 🔭 I’m working as Front-End Developer<br>- 📚 I'm currently learning Node.JS</p>
+---
 
-###
+## 📚 Learning & Goals
+- Deep dive into **React performance optimization** and **accessibility**.
+- Mastering **Next.js Server Actions**, **React Query**, and **shadcn/ui**.
+- Exploring **Cloud (AWS / Firebase)** for full-stack deployment.
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abanoub-abdelmessih&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abanoub-abdelmessih&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+---
